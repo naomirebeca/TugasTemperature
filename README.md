@@ -1,8 +1,8 @@
 # Tugas Hasil Aplikasi Temperature
 
 
-#Nama   : Naomi Rebeka
+Nama   : Naomi Rebeka
 
-#NIM    : 1541180212
+NIM    : 1541180212
 
-#Kelas  : TI-4C
+Kelas  : TI-4C
